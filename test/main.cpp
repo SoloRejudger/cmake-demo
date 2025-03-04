@@ -10,6 +10,8 @@ int main(int argc, char *argv[]) {
     double base = atof(argv[1]);
     int exponent = atoi(argv[2]);
 
+    std::cout << "base: " << base << ", exponent: " << exponent << std::endl;
+
     double result = power(base, exponent);
     std::cout << base << "^" << exponent << " = " << result << std::endl;
     return 0;

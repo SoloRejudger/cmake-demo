@@ -1,0 +1,10 @@
+{
+  // 开启Git装饰（影响侧边栏颜色标记）
+  "git.decorations.enabled": true,
+  
+  // 启用文件资源管理器的Git颜色提示
+  "explorer.decorations.colors": true,
+  
+  // 恢复默认颜色主题（重要）
+  "workbench.colorCustomizations": {}
+} 
