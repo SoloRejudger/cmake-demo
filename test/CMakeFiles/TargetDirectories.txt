@@ -1,0 +1,3 @@
+/home/solorejudger/course/cmake-demo/test/CMakeFiles/MyApp.dir
+/home/solorejudger/course/cmake-demo/test/CMakeFiles/edit_cache.dir
+/home/solorejudger/course/cmake-demo/test/CMakeFiles/rebuild_cache.dir

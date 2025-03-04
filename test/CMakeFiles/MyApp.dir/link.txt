@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyApp.dir/main.cpp.o -o MyApp  /usr/local/lib/libMathFunctions.a 
